@@ -1,6 +1,10 @@
 # Wisnu - Wisata Nusantara
+  
+<p align="center">
+    <img src="https://github.com/Wisnu-C23-PS427/.github/blob/main/wisnu_logo.png?raw=true" alt="Wisnu Logo" width="320">
+</p>
+
 <h2>An application to recommends attraction to capstone project Bangkit 2023 Batch 1</h2>
-<h1></h1>
 <p>Hi. this is our repository for our project in capstone project Bangkit 2023 Batch 1. Our team consist of 6 people from Machine Learning Path, Mobile Development Path and Cloud Computing Path.
 
 All of the project management we take a place with Github repository, to distinguish each path we create a different repository.</p>
@@ -26,10 +30,10 @@ We created the UI and overall application flow, designing the API response with 
 ### Cloud Computing
 Cloud Computing: We implemented API endpoints for the MD team in a Flask server and integrated it with a machine learning model made by the ML team. Then, we deployed the server and the database which uses MySQL to Google Cloud.
 
-
 ## Tech stack
 - TensorFlow
 - Scikit-Learn
 - Kotlin
 - Retrofit
-- Google Cloud Platform
+- Flask
+- MySQL
