@@ -4,6 +4,12 @@
     <img src="https://github.com/Wisnu-C23-PS427/.github/blob/main/wisnu_logo.png?raw=true" alt="Wisnu Logo" width="320">
 </p>
 
+</br>
+
+## Demo Video
+
+![Videos](../wisnu_demo.mp4)
+
 <h2>An application to recommends attraction to capstone project Bangkit 2023 Batch 1</h2>
 <p>Hi. this is our repository for our project in capstone project Bangkit 2023 Batch 1. Our team consist of 6 people from Machine Learning Path, Mobile Development Path and Cloud Computing Path.
 
