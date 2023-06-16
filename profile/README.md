@@ -6,9 +6,8 @@
 
 </br>
 
-## Demo Video
-
-![Videos](../wisnu_demo.mp4)
+## Demo Videos
+[Link Video Here](https://drive.google.com/file/d/1ke21trpu-EA05DEBHZc8fhEVKmEvXqBA/preview)
 
 <h2>An application to recommends attraction to capstone project Bangkit 2023 Batch 1</h2>
 <p>Hi. this is our repository for our project in capstone project Bangkit 2023 Batch 1. Our team consist of 6 people from Machine Learning Path, Mobile Development Path and Cloud Computing Path.
